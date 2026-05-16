@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer currently pursuing a Bachelor’s degree in Information Technology, with a Diploma in Software Engineering. Passionate about front-end development and UI/UX design, with hands-on experience gained through academic projects and an industry internship. Eager to grow in a real-world development environment and contribute to meaningful projects.<br><br>I have working knowledge of HTML, CSS, JavaScript, Vue, Laravel, Git, Figma, MySQL, PHP and C. I am currently learning React and am always open to exploring new technologies and stacks to expand my skills and stay adaptable in the fast-evolving tech landscape.<br><br>
+Aspiring software developer currently pursuing a Bachelor’s degree in Information Technology, with a Diploma in Software Engineering. Passionate about front-end development and UI/UX design, with hands-on experience gained through academic projects and an industry internship. Eager to grow in a real-world development environment and contribute to meaningful projects.<br><br>I have working knowledge of HTML, CSS, JavaScript, Vue, Laravel, Git, Figma, MySQL, PHP, NuxtJS and C. I am currently learning React and NextJS also always open to exploring new technologies and stacks to expand my skills and stay adaptable in the fast-evolving tech landscape.<br><br>
 
 
 ## 🌐 Socials:
